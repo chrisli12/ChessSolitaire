@@ -1,0 +1,2 @@
+setup_chess(K,2,2)
+setup_chess(B,2,2)

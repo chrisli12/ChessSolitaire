@@ -1,0 +1,4 @@
+
+setup_chess(K,3,2)
+start_game
+moves(3,2)
